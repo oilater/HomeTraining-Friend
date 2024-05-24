@@ -1,6 +1,13 @@
 # HomeTraining-Friend
 
+### 🕖  v 1.0.0
+
 <img width="792" alt="스크린샷 2024-03-16 오후 12 44 55" src="https://github.com/oilater/HomeTraining-Friend/assets/115062965/4a3fe24a-4788-473b-9bc5-8b41804ec56c">
+
+### 🕖  v 1.1.1
+
+<img width="999" alt="스크린샷 2024-05-24 오후 3 19 53" src="https://github.com/oilater/HomeTraining-Friend/assets/115062965/1eb7546f-cca7-43d9-8034-174517620b0f">
+
 
 ### 💭  개발 목적
 
@@ -39,7 +46,7 @@
 - 하단바 UI 수정
 
 <br>
-이외에도 필요한 기능이 있으시다면 언제든지 제 이메일로 보내주시면 감사하겠습니다!
+이외에도 필요한 기능이 있으시다면 언제든지 oilater@naver.com로 보내주시면 감사하겠습니다!
 
 
   
