@@ -6,7 +6,7 @@
 
 ### 🕖  v 1.1.1
 
-<img width="999" alt="스크린샷 2024-05-24 오후 3 19 53" src="https://github.com/oilater/HomeTraining-Friend/assets/115062965/1eb7546f-cca7-43d9-8034-174517620b0f">
+<img width="792" alt="스크린샷 2024-05-24 오후 3 19 53" src="https://github.com/oilater/HomeTraining-Friend/assets/115062965/1eb7546f-cca7-43d9-8034-174517620b0f">
 
 
 ### 💭  개발 목적
