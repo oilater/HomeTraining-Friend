@@ -1,15 +1,15 @@
 # 홈트친구
 
-### 🕖  v 1.0.0
+### 🌟  v 1.0.0
 
 <img width="792" alt="스크린샷 2024-03-16 오후 12 44 55" src="https://github.com/oilater/HomeTraining-Friend/assets/115062965/4a3fe24a-4788-473b-9bc5-8b41804ec56c">
 
-### 🕖  v 1.1.1
+### 🌟  v 1.1.1
 
 <img width="792" alt="스크린샷 2024-05-24 오후 3 19 53" src="https://github.com/oilater/HomeTraining-Friend/assets/115062965/1eb7546f-cca7-43d9-8034-174517620b0f">
 
 
-### 💭  어플 소개
+### 🍀  어플 소개
 
 하루 목표 개수를 정하고 기록하며, 운동량을 채워보세요! <br>
 <br>
