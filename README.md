@@ -1,4 +1,4 @@
-# HomeTraining-Friend
+# 홈트친구
 
 ### 🕖  v 1.0.0
 
